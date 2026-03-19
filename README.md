@@ -37,17 +37,35 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="642" height="627" alt="Screenshot 2026-03-19 232756" src="https://github.com/user-attachments/assets/480e7c64-71dd-4c03-95ca-611d50149864" />
+![WhatsApp Image 2026-03-20 at 1 18 53 AM](https://github.com/user-attachments/assets/78b9f9ed-e6d0-447e-8e8f-037d597ca665)
+ Half wave without filter:
+ <img width="651" height="584" alt="Screenshot 2026-03-19 223257" src="https://github.com/user-attachments/assets/c378e214-17a8-4f61-bb4a-5be6159384ff" />
+ ![WhatsApp Image 2026-03-20 at 1 21 04 AM](https://github.com/user-attachments/assets/29bff52a-3767-440e-a2eb-b6ba80bba14f)
 
 Bridge rectifier with filter:
+<img width="708" height="669" alt="Screenshot 2026-03-19 231332" src="https://github.com/user-attachments/assets/8aa4b0d6-2814-4b19-84eb-ed0230abbe40" />
+<img width="1168" height="442" alt="image" src="https://github.com/user-attachments/assets/70e73ae3-b4a7-4dac-8965-f30b21203cc4" />
+Bridge rectifier without filter:
+<img width="722" height="712" alt="Screenshot 2026-03-19 225005" src="https://github.com/user-attachments/assets/494994cf-a024-46e0-9e5e-e622f0366dab" />
+<img width="1110" height="612" alt="image" src="https://github.com/user-attachments/assets/1ab939fb-1760-404f-8cd7-09c0958c58bf" />
 
 TABULAR COLUMN
 Rectifier without filter
+![WhatsApp Image 2026-03-20 at 1 30 01 AM](https://github.com/user-attachments/assets/338f164f-38a4-4309-8201-846a22c27fff)
+
 TABULAR COLUMN
 Rectifier with filter
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/47fcc268-2e80-4d6a-a141-02e4fee6b682" />
 
 WAVEFORM:
+For half wave ( with and without filter):
+<img width="1374" height="878" alt="Screenshot 2026-03-19 223808" src="https://github.com/user-attachments/assets/c72a1351-d110-4743-8948-bbeeb2f3b662" />
+<img width="1390" height="888" alt="Screenshot 2026-03-19 223238" src="https://github.com/user-attachments/assets/b4a2d802-f05d-4a4b-beb5-cf0d61de4c05" />
 
+For full wave (with and without filter):
+<img width="1381" height="879" alt="Screenshot 2026-03-19 231321" src="https://github.com/user-attachments/assets/9b21f21d-1777-4195-b582-fcc4b23a5e47" />
+<img width="1390" height="875" alt="Screenshot 2026-03-19 224948" src="https://github.com/user-attachments/assets/f5948ee0-e3e7-43e1-8306-6c9ed2484d10" />
 
 RESULT:
-
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
